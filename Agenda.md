@@ -1,4 +1,4 @@
-# Take-off med RavenDB
+# RavenDB
 
 NoSQL?
 
